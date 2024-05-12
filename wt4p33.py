@@ -45,10 +45,9 @@ approval_description = ("""
 \033[0mTo buy this tool,
 \033[0mplease connect from Facebook or Telegram.
 
-\033[0mFacebook acc:  https://www.facebook.com/sknaing29
-\033[0mFacebook page: https://www.facebook.com/MyanService
-\033[0mTelegram acc:  https://t.me/YeMoeThaung
-\033[0mTelegram page: https://t.me/MyanService
+
+\033[0mTelegram acc:  @wt4p2p
+\033[0mTelegram page: https://t.me/wt4p2
 """)
 
 print("Loading...")
